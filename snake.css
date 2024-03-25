@@ -1,0 +1,11 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.title {
+    font-weight: bolder;
+}
+
+body {
+    background: rgb(148, 148, 148);
+}
