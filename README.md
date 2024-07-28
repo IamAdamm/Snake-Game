@@ -1,2 +1,1 @@
-A very simple Website with Game of Snake.
-You can change the size of the game board easily.
+A very simple Website with a Game of Snake.
